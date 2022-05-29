@@ -9,6 +9,7 @@ Localization Manager &amp; Flipped Layout (Swift)
 - XCode Version 12.4
 
 ## Tutorilas
-This repo is from Ahmed Masoud's YouTube Tutorial Channel:
+This repo is from Ahmed Masoud's Tutorial:
 
-[localizationYouTube](https://www.youtube.com/user/Iphone284)
+- Youtube Channel [localizationYouTube](https://www.youtube.com/user/Iphone284)
+- GitHub [LocalizationGitHub](https://github.com/Ahmed-Masoud/Tutorials/tree/master/LocalizationManager)
